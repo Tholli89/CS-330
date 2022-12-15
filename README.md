@@ -1,6 +1,7 @@
 # CS-330
 
 #What new design skills has your work on the project helped you to craft?
+
 This project helped me develop the basics of design which I previously had no experience with. Before this project I didnt know anything about graphic design and now I feel I can at least set up a simple scene with objects, a camera, textures, and lighting.
 
 #What design process did you follow for your project work?
